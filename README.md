@@ -1,5 +1,11 @@
 # ⚔️ SubShad0w
 
+![SubShad0w Logo](Img/logo.png)
+
+
+
+
+
 **SubShad0w** is a Python-based subdomain takeover detection tool.
 
 SubShad0w is an advanced subdomain takeover detection tool designed to help bug bounty hunters, penetration testers, and security professionals identify vulnerable subdomains pointing to deprovisioned services. It automates the discovery and analysis of DNS records and response patterns by checking HTTP responses and resolving CNAME records.
