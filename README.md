@@ -26,31 +26,31 @@ cd SubShad0w
 pip install -r requirements.txt --break-system-packages
 
 
-#### Or using a virtual environment:
+### Or using a virtual environment:
 
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-
+```
 
 ## 🚀 Usage
 
 ### 1. Create a target list
 
-Create a file named targets.txt with one domain per line:
+Create a file named **targets.txt**  with one domain per line:
 ```
 example.com
 testsite.net
 ```
 
-###2. Run the tool
+### 2. Run the tool
 
 ```
 python3 subshad0w.py -l targets.txt
 ```
 
 
-##📁 Output
+## 📁 Output
 
 All results will be saved in the Output/ directory:
 
